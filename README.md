@@ -16,19 +16,20 @@ The administrator has a space to process requests. They can either approve or re
 ### Screenshots
 Some screenshots 
 #### Home page: 
-![](public/image/1.png)
+![](public/Image/1.png)
 #### Student space :
-![](public/image/2.png)
-![](public/image/3.png)
+![](public/Image/2.png)
+![](public/Image/3.png)
+![](public/Image/4.png)
 #### Admin space: 
-![](public/image/1gl.png)
-![](public/image/2gl.png)
-![](public/image/3gl.png)
-![](public/image/4gl.png)
-![](public/image/5gl.png)
-![](public/image/6gl.png)
-![](public/image/7gl.png)
-![](public/image/8gl.png)
+![](public/Image/1gl.png)
+![](public/Image/2gl.png)
+![](public/Image/3gl.png)
+![](public/Image/4gl.png)
+![](public/Image/5gl.png)
+![](public/Image/6gl.png)
+![](public/Image/7gl.png)
+![](public/Image/8gl.png)
 
 ## My process
 
